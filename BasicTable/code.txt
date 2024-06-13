@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html LANG="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport"
+              content="width=device-width, initial-scale=1.8">
+              <title>Table</title>
+    </head>
+<body>
+    <table border="4px">
+        <tr>
+            <th>Name</th>
+            <th>Contact</th>
+            <th>Country</th>
+        </tr>
+        <tr>
+            <td>Shyam</td>
+            <td>1405</td>
+            <td>India</td>
+        </tr>
+        <tr>
+            <td>Abhi</td>
+            <td>1408</td>
+            <td>India</td>
+        </tr>
+        <tr>
+            <td>Abhisekh</td>
+            <td>1410</td>
+            <td>India</td>
+        </tr>
+    </table>
+</body>
+
+    </html>
